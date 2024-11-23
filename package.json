@@ -1,0 +1,22 @@
+{
+  "name": "node.js-y-express",
+  "version": "1.0.0",
+  "description": "Trabajo en equipo.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tommykd1335/practica-nodejs-espress.git"
+  },
+  "author": "Tommy, Angel, Dania y Junior",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tommykd1335/practica-nodejs-espress/issues"
+  },
+  "homepage": "https://github.com/tommykd1335/practica-nodejs-espress#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
